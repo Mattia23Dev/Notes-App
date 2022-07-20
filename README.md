@@ -1,5 +1,6 @@
 # Notes-App
 
+Software to create notes, and save it
 
 # Demo
 
